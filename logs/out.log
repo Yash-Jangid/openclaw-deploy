@@ -1,0 +1,294 @@
+2026-04-16 16:06:56 +02:00: [90m2026-04-16T16:06:56.098+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:07:01 +02:00: [90m2026-04-16T16:07:01.649+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 175s[39m
+2026-04-16 16:09:15 +02:00: [90m2026-04-16T16:09:15.777+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 379ms conn=5e39b26f…7855 id=5d5f92aa…b37b[39m
+2026-04-16 16:09:15 +02:00: [90m2026-04-16T16:09:15.973+02:00[39m [36m[ws][39m [36m⇄ res ✓ doctor.memory.status 83ms conn=49d2de54…9b4d id=1a4c172e…b3c5[39m
+2026-04-16 16:09:56 +02:00: [90m2026-04-16T16:09:56.383+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:09:56 +02:00: [90m2026-04-16T16:09:56.870+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 16:10:48 +02:00: [90m2026-04-16T16:10:48.761+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 288ms conn=2f450bcb…93a1 id=5133227c…cbce[39m
+2026-04-16 16:12:08 +02:00: [90m2026-04-16T16:12:08.167+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 16:14:57 +02:00: [90m2026-04-16T16:14:57.098+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:15:01 +02:00: [90m2026-04-16T16:15:01.160+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 16:15:06 +02:00: [90m2026-04-16T16:15:06.835+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:15:12 +02:00: [90m2026-04-16T16:15:12.277+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 16:15:22 +02:00: [90m2026-04-16T16:15:22.592+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:15:27 +02:00: [90m2026-04-16T16:15:27.963+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 16:15:49 +02:00: [90m2026-04-16T16:15:49.201+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:15:53 +02:00: [90m2026-04-16T16:15:53.738+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 16:16:34 +02:00: [90m2026-04-16T16:16:34.887+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:16:39 +02:00: [90m2026-04-16T16:16:39.006+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 85s[39m
+2026-04-16 16:18:04 +02:00: [90m2026-04-16T16:18:04.766+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:18:08 +02:00: [90m2026-04-16T16:18:08.988+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 168s[39m
+2026-04-16 16:20:57 +02:00: [90m2026-04-16T16:20:57.383+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:21:01 +02:00: [90m2026-04-16T16:21:01.797+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 16:22:42 +02:00: [90m2026-04-16T16:22:42.623+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 270ms conn=dbf61c68…cb02 id=e9b6747e…b9ec[39m
+2026-04-16 16:26:02 +02:00: [90m2026-04-16T16:26:02.304+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:26:04 +02:00: [90m2026-04-16T16:26:04.170+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 8/10 in 300s[39m
+2026-04-16 16:26:28 +02:00: [90m2026-04-16T16:26:28.571+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 279ms conn=69f8c4e4…da48 id=f539914e…48f1[39m
+2026-04-16 16:27:08 +02:00: [90m2026-04-16T16:27:08.191+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 16:28:18 +02:00: [90m2026-04-16T16:28:18.413+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 532ms conn=c76065e8…3e43 id=77f9f7d2…f01a[39m
+2026-04-16 16:31:04 +02:00: [90m2026-04-16T16:31:04.553+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:31:09 +02:00: [90m2026-04-16T16:31:09.270+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 16:31:14 +02:00: [90m2026-04-16T16:31:14.570+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:31:18 +02:00: [90m2026-04-16T16:31:18.838+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 16:31:29 +02:00: [90m2026-04-16T16:31:29.489+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:31:32 +02:00: [90m2026-04-16T16:31:32.415+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 22s[39m
+2026-04-16 16:31:54 +02:00: [90m2026-04-16T16:31:54.423+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:31:59 +02:00: [90m2026-04-16T16:31:59.392+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 16:32:40 +02:00: [90m2026-04-16T16:32:40.736+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:32:42 +02:00: [90m2026-04-16T16:32:42.870+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 88s[39m
+2026-04-16 16:34:11 +02:00: [90m2026-04-16T16:34:11.073+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:34:14 +02:00: [90m2026-04-16T16:34:14.752+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 170s[39m
+2026-04-16 16:37:05 +02:00: [90m2026-04-16T16:37:05.346+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:37:05 +02:00: [90m2026-04-16T16:37:05.906+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 16:42:06 +02:00: [90m2026-04-16T16:42:06.144+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:42:07 +02:00: [90m2026-04-16T16:42:07.521+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 8/10 in 300s[39m
+2026-04-16 16:42:08 +02:00: [90m2026-04-16T16:42:08.155+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 16:47:00 +02:00: [90m2026-04-16T16:47:00.966+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 302ms conn=f23ae22c…7b7a id=9fb45bc2…edab[39m
+2026-04-16 16:47:07 +02:00: [90m2026-04-16T16:47:07.785+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:47:08 +02:00: [90m2026-04-16T16:47:08.494+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 16:47:14 +02:00: [90m2026-04-16T16:47:14.261+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:47:16 +02:00: [90m2026-04-16T16:47:16.205+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 16:47:26 +02:00: [90m2026-04-16T16:47:26.604+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:47:28 +02:00: [90m2026-04-16T16:47:28.101+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 22s[39m
+2026-04-16 16:47:50 +02:00: [90m2026-04-16T16:47:50.161+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:47:55 +02:00: [90m2026-04-16T16:47:55.449+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 16:48:36 +02:00: [90m2026-04-16T16:48:36.746+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:48:39 +02:00: [90m2026-04-16T16:48:39.121+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 80s[39m
+2026-04-16 16:49:59 +02:00: [90m2026-04-16T16:49:59.515+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:50:03 +02:00: [90m2026-04-16T16:50:03.972+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 169s[39m
+2026-04-16 16:51:23 +02:00: [90m2026-04-16T16:51:23.295+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 320ms conn=7d801733…c5cb id=9d89b39b…83e1[39m
+2026-04-16 16:52:08 +02:00: [90m2026-04-16T16:52:08.261+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 16:52:53 +02:00: [90m2026-04-16T16:52:53.357+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:52:54 +02:00: [90m2026-04-16T16:52:54.057+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 16:52:59 +02:00: [90m2026-04-16T16:52:59.644+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:53:02 +02:00: [90m2026-04-16T16:53:02.100+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 11s[39m
+2026-04-16 16:53:13 +02:00: [90m2026-04-16T16:53:13.331+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:53:17 +02:00: [90m2026-04-16T16:53:17.071+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 22s[39m
+2026-04-16 16:53:39 +02:00: [90m2026-04-16T16:53:39.027+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:53:41 +02:00: [90m2026-04-16T16:53:41.709+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 16:54:22 +02:00: [90m2026-04-16T16:54:22.938+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:54:25 +02:00: [90m2026-04-16T16:54:25.806+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 86s[39m
+2026-04-16 16:55:03 +02:00: [90m2026-04-16T16:55:03.995+02:00[39m [36m[gateway][39m [36msignal SIGINT received[39m
+2026-04-16 16:55:04 +02:00: [90m2026-04-16T16:55:03.999+02:00[39m [36m[gateway][39m [36mreceived SIGINT; shutting down[39m
+2026-04-16 16:55:04 +02:00: [90m2026-04-16T16:55:04.946+02:00[39m [34m[gmail-watcher][39m [36mgmail watcher stopped[39m
+2026-04-16 16:55:05 +02:00: [90m2026-04-16T16:55:05.168+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1012 reason=service restart conn=5713f053-2996-40d9-9e50-e48fbe75a5d6[39m
+2026-04-16 16:55:15 +02:00: [90m2026-04-16T16:55:15.588+02:00[39m [36m[gateway][39m [36mloading configuration…[39m
+2026-04-16 16:55:15 +02:00: [90m2026-04-16T16:55:15.719+02:00[39m [36m[gateway][39m [36mresolving authentication…[39m
+2026-04-16 16:55:15 +02:00: [90m2026-04-16T16:55:15.943+02:00[39m [36m[gateway][39m [36mstarting...[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.314+02:00[39m [36m[gateway][39m [36mstarting HTTP server...[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.324+02:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /data/.openclaw/canvas)[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.555+02:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.746+02:00[39m [36m[gateway][39m [36magent model: nvidia/meta/llama-3.1-70b-instruct[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.749+02:00[39m [36m[gateway][39m [36mready (7 plugins: acpx, browser, device-pair, phone-control, talk-voice, telegram, whatsapp; 10.8s)[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.752+02:00[39m [36m[gateway][39m [36mlog file: /tmp/openclaw-0/openclaw-2026-04-16.log[39m
+2026-04-16 16:55:26 +02:00: [90m2026-04-16T16:55:26.912+02:00[39m [36m[gateway][39m [36mstarting channels and sidecars...[39m
+2026-04-16 16:55:27 +02:00: [90m2026-04-16T16:55:27.289+02:00[39m [33m[hooks][39m [36mloaded 4 internal hook handlers[39m
+2026-04-16 16:55:59 +02:00: [90m2026-04-16T16:55:59.370+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:55:59 +02:00: [90m2026-04-16T16:55:59.384+02:00[39m [34m[telegram][39m [36m[default] starting provider (@Zydra_bot)[39m
+2026-04-16 16:55:59 +02:00: [90m2026-04-16T16:55:59.582+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend registered (cwd: /data/.openclaw/workspace)[39m
+2026-04-16 16:55:59 +02:00: [90m2026-04-16T16:55:59.664+02:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+2026-04-16 16:56:00 +02:00: [90m2026-04-16T16:56:00.564+02:00[39m [36m[heartbeat][39m [36mstarted[39m
+2026-04-16 16:56:00 +02:00: [90m2026-04-16T16:56:00.783+02:00[39m [36m[ws][39m [36mwebchat connected conn=e0fadd3f-5756-441f-865f-2114aed4c7bf remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 16:56:02 +02:00: [90m2026-04-16T16:56:02.779+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 1608ms conn=e0fadd3f…c7bf id=5dfd6a65…914f[39m
+2026-04-16 16:56:03 +02:00: [90m2026-04-16T16:56:03.793+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend ready[39m
+2026-04-16 16:56:04 +02:00: [90m2026-04-16T16:56:04.141+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 16:56:09 +02:00: [90m2026-04-16T16:56:09.381+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:56:14 +02:00: [90m2026-04-16T16:56:14.656+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 16:56:25 +02:00: [90m2026-04-16T16:56:25.283+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:56:26 +02:00: [90m2026-04-16T16:56:26.045+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 16:56:47 +02:00: [90m2026-04-16T16:56:47.598+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:56:49 +02:00: [90m2026-04-16T16:56:49.847+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 16:57:33 +02:00: [90m2026-04-16T16:57:33.053+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:57:33 +02:00: [90m2026-04-16T16:57:33.544+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 87s[39m
+2026-04-16 16:59:00 +02:00: [90m2026-04-16T16:59:00.875+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 16:59:03 +02:00: [90m2026-04-16T16:59:03.677+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 161s[39m
+2026-04-16 17:00:26 +02:00: [90m2026-04-16T17:00:26.847+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:01:37 +02:00: [90m2026-04-16T17:01:37.082+02:00[39m [36m[gateway][39m [36msignal SIGINT received[39m
+2026-04-16 17:01:37 +02:00: [90m2026-04-16T17:01:37.086+02:00[39m [36m[gateway][39m [36mreceived SIGINT; shutting down[39m
+2026-04-16 17:01:37 +02:00: [90m2026-04-16T17:01:37.674+02:00[39m [34m[gmail-watcher][39m [36mgmail watcher stopped[39m
+2026-04-16 17:01:37 +02:00: [90m2026-04-16T17:01:37.867+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1012 reason=service restart conn=e0fadd3f-5756-441f-865f-2114aed4c7bf[39m
+2026-04-16 17:01:48 +02:00: [90m2026-04-16T17:01:48.389+02:00[39m [36m[gateway][39m [36mloading configuration…[39m
+2026-04-16 17:01:48 +02:00: [90m2026-04-16T17:01:48.468+02:00[39m [36m[gateway][39m [36mresolving authentication…[39m
+2026-04-16 17:01:48 +02:00: [90m2026-04-16T17:01:48.514+02:00[39m [36m[gateway][39m [36mstarting...[39m
+2026-04-16 17:02:00 +02:00: [90m2026-04-16T17:02:00.585+02:00[39m [36m[gateway][39m [36mstarting HTTP server...[39m
+2026-04-16 17:02:00 +02:00: [90m2026-04-16T17:02:00.683+02:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /data/.openclaw/canvas)[39m
+2026-04-16 17:02:01 +02:00: [90m2026-04-16T17:02:01.282+02:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+2026-04-16 17:02:01 +02:00: [90m2026-04-16T17:02:01.802+02:00[39m [36m[gateway][39m [36magent model: nvidia/meta/llama-3.1-70b-instruct[39m
+2026-04-16 17:02:01 +02:00: [90m2026-04-16T17:02:01.805+02:00[39m [36m[gateway][39m [36mready (7 plugins: acpx, browser, device-pair, phone-control, talk-voice, telegram, whatsapp; 13.3s)[39m
+2026-04-16 17:02:01 +02:00: [90m2026-04-16T17:02:01.808+02:00[39m [36m[gateway][39m [36mlog file: /tmp/openclaw-0/openclaw-2026-04-16.log[39m
+2026-04-16 17:02:02 +02:00: [90m2026-04-16T17:02:02.173+02:00[39m [36m[gateway][39m [36mstarting channels and sidecars...[39m
+2026-04-16 17:02:02 +02:00: [90m2026-04-16T17:02:02.673+02:00[39m [33m[hooks][39m [36mloaded 4 internal hook handlers[39m
+2026-04-16 17:02:24 +02:00: [90m2026-04-16T17:02:24.414+02:00[39m [36m[ws][39m [36mwebchat connected conn=9eeb5663-b8ba-4d54-ad23-e45abdf169ff remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:02:25 +02:00: [90m2026-04-16T17:02:25.390+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 713ms conn=9eeb5663…69ff id=e531c3b9…f70b[39m
+2026-04-16 17:02:39 +02:00: [90m2026-04-16T17:02:39.965+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:02:40 +02:00: [90m2026-04-16T17:02:40.001+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend registered (cwd: /data/.openclaw/workspace)[39m
+2026-04-16 17:02:40 +02:00: [90m2026-04-16T17:02:40.084+02:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+2026-04-16 17:02:40 +02:00: [90m2026-04-16T17:02:40.092+02:00[39m [34m[telegram][39m [36m[default] starting provider (@Zydra_bot)[39m
+2026-04-16 17:02:41 +02:00: [90m2026-04-16T17:02:41.379+02:00[39m [36m[heartbeat][39m [36mstarted[39m
+2026-04-16 17:02:41 +02:00: [90m2026-04-16T17:02:41.481+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 170ms conn=9eeb5663…69ff id=ed2e34c7…bc6b[39m
+2026-04-16 17:02:41 +02:00: [90m2026-04-16T17:02:41.600+02:00[39m [36m[ws][39m [36m⇄ res ✓ agents.files.list 5395ms conn=9eeb5663…69ff id=14cb8a66…8d51[39m
+2026-04-16 17:02:42 +02:00: [90m2026-04-16T17:02:42.171+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend ready[39m
+2026-04-16 17:02:44 +02:00: [90m2026-04-16T17:02:44.456+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:02:50 +02:00: [90m2026-04-16T17:02:50.031+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:02:51 +02:00: [90m2026-04-16T17:02:51.978+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 17:03:02 +02:00: [90m2026-04-16T17:03:02.627+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:03:05 +02:00: [90m2026-04-16T17:03:05.232+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 20s[39m
+2026-04-16 17:03:26 +02:00: [90m2026-04-16T17:03:26.272+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:03:30 +02:00: [90m2026-04-16T17:03:30.026+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 17:04:13 +02:00: [90m2026-04-16T17:04:13.772+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:04:14 +02:00: [90m2026-04-16T17:04:14.071+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 84s[39m
+2026-04-16 17:05:38 +02:00: [90m2026-04-16T17:05:38.267+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:05:39 +02:00: [90m2026-04-16T17:05:39.323+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 168s[39m
+2026-04-16 17:05:57 +02:00: [90m2026-04-16T17:05:57.142+02:00[39m [36m[ws][39m [36m⇄ res ✓ channels.status 336ms conn=6ebd016d…fdaa id=a97507bf…cd80[39m
+2026-04-16 17:05:59 +02:00: [90m2026-04-16T17:05:59.075+02:00[39m [36m[ws][39m [36m⇄ res ✓ doctor.memory.status 1895ms conn=8e9aca01…0cb4 id=563f509d…4b47[39m
+2026-04-16 17:07:01 +02:00: [90m2026-04-16T17:07:01.428+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:08:28 +02:00: [90m2026-04-16T17:08:28.094+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:08:30 +02:00: [90m2026-04-16T17:08:30.024+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:08:35 +02:00: [90m2026-04-16T17:08:35.390+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:08:36 +02:00: [90m2026-04-16T17:08:36.950+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 11s[39m
+2026-04-16 17:08:47 +02:00: [90m2026-04-16T17:08:47.939+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:08:48 +02:00: [90m2026-04-16T17:08:48.917+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 17:09:09 +02:00: [90m2026-04-16T17:09:09.722+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:09:12 +02:00: [90m2026-04-16T17:09:12.285+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 17:09:53 +02:00: [90m2026-04-16T17:09:53.877+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:09:55 +02:00: [90m2026-04-16T17:09:55.268+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 81s[39m
+2026-04-16 17:11:16 +02:00: [90m2026-04-16T17:11:16.086+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:11:20 +02:00: [90m2026-04-16T17:11:20.585+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 174s[39m
+2026-04-16 17:14:15 +02:00: [90m2026-04-16T17:14:15.249+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:14:15 +02:00: [90m2026-04-16T17:14:15.875+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 17:17:02 +02:00: [90m2026-04-16T17:17:02.402+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:19:16 +02:00: [90m2026-04-16T17:19:16.438+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:19:18 +02:00: [90m2026-04-16T17:19:18.719+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:19:23 +02:00: [90m2026-04-16T17:19:23.959+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:19:28 +02:00: [90m2026-04-16T17:19:28.134+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 17:19:38 +02:00: [90m2026-04-16T17:19:38.383+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:19:42 +02:00: [90m2026-04-16T17:19:42.325+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 17:20:03 +02:00: [90m2026-04-16T17:20:03.251+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:20:04 +02:00: [90m2026-04-16T17:20:04.353+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 42s[39m
+2026-04-16 17:20:46 +02:00: [90m2026-04-16T17:20:46.923+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:20:49 +02:00: [90m2026-04-16T17:20:49.928+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 85s[39m
+2026-04-16 17:22:15 +02:00: [90m2026-04-16T17:22:15.323+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:22:19 +02:00: [90m2026-04-16T17:22:19.322+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 165s[39m
+2026-04-16 17:25:04 +02:00: [90m2026-04-16T17:25:04.773+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:25:08 +02:00: [90m2026-04-16T17:25:08.349+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 17:27:01 +02:00: [90m2026-04-16T17:27:01.560+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:30:08 +02:00: [90m2026-04-16T17:30:08.748+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:30:11 +02:00: [90m2026-04-16T17:30:11.325+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:30:16 +02:00: [90m2026-04-16T17:30:16.615+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:30:20 +02:00: [90m2026-04-16T17:30:20.129+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 11s[39m
+2026-04-16 17:30:31 +02:00: [90m2026-04-16T17:30:31.224+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:30:33 +02:00: [90m2026-04-16T17:30:33.715+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 22s[39m
+2026-04-16 17:30:55 +02:00: [90m2026-04-16T17:30:55.863+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:30:58 +02:00: [90m2026-04-16T17:30:58.040+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 42s[39m
+2026-04-16 17:31:30 +02:00: [90m2026-04-16T17:31:30.134+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1006 reason=n/a conn=9eeb5663-b8ba-4d54-ad23-e45abdf169ff[39m
+2026-04-16 17:31:31 +02:00: [90m2026-04-16T17:31:31.668+02:00[39m [36m[ws][39m [36mwebchat connected conn=1a6b3195-64e2-43f3-9a1f-04172f7be799 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:31:31 +02:00: [90m2026-04-16T17:31:31.975+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1005 reason=n/a conn=1a6b3195-64e2-43f3-9a1f-04172f7be799[39m
+2026-04-16 17:31:32 +02:00: [90m2026-04-16T17:31:32.549+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 588ms conn=1a6b3195…e799 id=59709579…5738[39m
+2026-04-16 17:31:39 +02:00: [90m2026-04-16T17:31:39.578+02:00[39m [36m[ws][39m [36mwebchat connected conn=d36057ef-55ed-424e-807e-29b08e314c12 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:31:40 +02:00: [90m2026-04-16T17:31:40.260+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 455ms conn=d36057ef…4c12 id=9785f3d2…0f95[39m
+2026-04-16 17:31:40 +02:00: [90m2026-04-16T17:31:40.476+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:31:43 +02:00: [90m2026-04-16T17:31:43.886+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1006 reason=n/a conn=d36057ef-55ed-424e-807e-29b08e314c12[39m
+2026-04-16 17:31:44 +02:00: [90m2026-04-16T17:31:44.510+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 84s[39m
+2026-04-16 17:31:45 +02:00: [90m2026-04-16T17:31:45.601+02:00[39m [36m[ws][39m [36mwebchat connected conn=a78d78ea-a044-489d-b58a-5db3cd2705aa remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:31:46 +02:00: [90m2026-04-16T17:31:46.176+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1005 reason=n/a conn=a78d78ea-a044-489d-b58a-5db3cd2705aa[39m
+2026-04-16 17:31:46 +02:00: [90m2026-04-16T17:31:46.405+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 584ms conn=a78d78ea…05aa id=6579a8c6…8ec8[39m
+2026-04-16 17:31:46 +02:00: [90m2026-04-16T17:31:46.661+02:00[39m [36m[ws][39m [36mwebchat connected conn=b4929d89-b17e-493c-99c0-b1fbc5758558 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:31:47 +02:00: [90m2026-04-16T17:31:47.112+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 229ms conn=b4929d89…8558 id=1084e26e…1fe0[39m
+2026-04-16 17:33:08 +02:00: [90m2026-04-16T17:33:08.789+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:33:13 +02:00: [90m2026-04-16T17:33:13.904+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 172s[39m
+2026-04-16 17:36:06 +02:00: [90m2026-04-16T17:36:06.232+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:36:08 +02:00: [90m2026-04-16T17:36:08.618+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 17:41:08 +02:00: [90m2026-04-16T17:41:08.826+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:41:13 +02:00: [90m2026-04-16T17:41:13.244+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 8/10 in 300s[39m
+2026-04-16 17:42:01 +02:00: [90m2026-04-16T17:42:01.438+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:46:13 +02:00: [90m2026-04-16T17:46:13.570+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:46:15 +02:00: [90m2026-04-16T17:46:15.991+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:46:21 +02:00: [90m2026-04-16T17:46:21.560+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:46:23 +02:00: [90m2026-04-16T17:46:23.596+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 11s[39m
+2026-04-16 17:46:34 +02:00: [90m2026-04-16T17:46:34.498+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:46:39 +02:00: [90m2026-04-16T17:46:39.949+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 17:47:01 +02:00: [90m2026-04-16T17:47:01.527+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:47:06 +02:00: [90m2026-04-16T17:47:06.408+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 17:47:49 +02:00: [90m2026-04-16T17:47:49.350+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:47:50 +02:00: [90m2026-04-16T17:47:50.449+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 83s[39m
+2026-04-16 17:48:31 +02:00: [90m2026-04-16T17:48:31.517+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1006 reason=n/a conn=b4929d89-b17e-493c-99c0-b1fbc5758558[39m
+2026-04-16 17:49:14 +02:00: [90m2026-04-16T17:49:14.018+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:49:18 +02:00: [90m2026-04-16T17:49:18.227+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 164s[39m
+2026-04-16 17:52:01 +02:00: [90m2026-04-16T17:52:01.561+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 17:52:02 +02:00: [90m2026-04-16T17:52:02.085+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:52:03 +02:00: [90m2026-04-16T17:52:03.492+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 17:52:09 +02:00: [90m2026-04-16T17:52:09.113+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:52:13 +02:00: [90m2026-04-16T17:52:13.076+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 17:52:23 +02:00: [90m2026-04-16T17:52:23.259+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:52:27 +02:00: [90m2026-04-16T17:52:27.602+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 20s[39m
+2026-04-16 17:52:47 +02:00: [90m2026-04-16T17:52:47.904+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:52:51 +02:00: [90m2026-04-16T17:52:51.658+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 17:53:35 +02:00: [90m2026-04-16T17:53:35.084+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:53:36 +02:00: [90m2026-04-16T17:53:36.133+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 81s[39m
+2026-04-16 17:54:56 +02:00: [90m2026-04-16T17:54:56.849+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:55:01 +02:00: [90m2026-04-16T17:55:01.658+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 176s[39m
+2026-04-16 17:55:02 +02:00: [90m2026-04-16T17:55:02.747+02:00[39m [36m[ws][39m [36mwebchat connected conn=bca17d40-b7be-4920-9d40-338b5f4e5aae remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:55:03 +02:00: [90m2026-04-16T17:55:03.378+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1005 reason=n/a conn=bca17d40-b7be-4920-9d40-338b5f4e5aae[39m
+2026-04-16 17:55:03 +02:00: [90m2026-04-16T17:55:03.592+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 620ms conn=bca17d40…5aae id=a3d0c573…2668[39m
+2026-04-16 17:55:03 +02:00: [90m2026-04-16T17:55:03.640+02:00[39m [36m[ws][39m [36mwebchat connected conn=53a83f30-f538-4236-961b-c431e11b2002 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 17:55:04 +02:00: [90m2026-04-16T17:55:04.078+02:00[39m [36m[ws][39m [36m⇄ res ✓ config.get 235ms conn=53a83f30…2002 id=ead1fe38…1d82[39m
+2026-04-16 17:57:57 +02:00: [90m2026-04-16T17:57:57.930+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 17:58:02 +02:00: [90m2026-04-16T17:58:02.012+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 18:02:01 +02:00: [90m2026-04-16T18:02:01.534+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 18:03:02 +02:00: [90m2026-04-16T18:03:02.269+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:03:02 +02:00: [90m2026-04-16T18:03:02.771+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 18:03:08 +02:00: [90m2026-04-16T18:03:08.411+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:03:09 +02:00: [90m2026-04-16T18:03:09.109+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 11s[39m
+2026-04-16 18:03:20 +02:00: [90m2026-04-16T18:03:20.110+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:03:22 +02:00: [90m2026-04-16T18:03:22.900+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 18:03:44 +02:00: [90m2026-04-16T18:03:44.167+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:03:47 +02:00: [90m2026-04-16T18:03:47.241+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 41s[39m
+2026-04-16 18:04:28 +02:00: [90m2026-04-16T18:04:28.495+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:04:31 +02:00: [90m2026-04-16T18:04:31.812+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 83s[39m
+2026-04-16 18:05:54 +02:00: [90m2026-04-16T18:05:54.707+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:05:59 +02:00: [90m2026-04-16T18:05:59.563+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 164s[39m
+2026-04-16 18:08:44 +02:00: [90m2026-04-16T18:08:44.206+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:08:49 +02:00: [90m2026-04-16T18:08:49.156+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 18:12:01 +02:00: [90m2026-04-16T18:12:01.576+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 18:13:49 +02:00: [90m2026-04-16T18:13:49.354+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:13:50 +02:00: [90m2026-04-16T18:13:50.862+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 18:13:56 +02:00: [90m2026-04-16T18:13:56.400+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:13:57 +02:00: [90m2026-04-16T18:13:57.370+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 18:14:07 +02:00: [90m2026-04-16T18:14:07.699+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:14:12 +02:00: [90m2026-04-16T18:14:12.677+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 18:14:34 +02:00: [90m2026-04-16T18:14:34.062+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:14:35 +02:00: [90m2026-04-16T18:14:35.453+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 18:15:18 +02:00: [90m2026-04-16T18:15:18.987+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:15:20 +02:00: [90m2026-04-16T18:15:20.690+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 83s[39m
+2026-04-16 18:16:43 +02:00: [90m2026-04-16T18:16:43.537+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:16:48 +02:00: [90m2026-04-16T18:16:48.796+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 168s[39m
+2026-04-16 18:17:09 +02:00: [90m2026-04-16T18:17:09.744+02:00[39m [36m[ws][39m [36mwebchat connected conn=4a0b223c-d69d-439e-842b-a1f67d43feae remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-16 18:17:11 +02:00: [90m2026-04-16T18:17:11.029+02:00[39m [36m[ws][39m [36m⇄ res ✓ commands.list 968ms conn=4a0b223c…feae id=affac6d0…7900[39m
+2026-04-16 18:17:23 +02:00: [90m2026-04-16T18:17:23.385+02:00[39m [36m[ws][39m [36m⇄ res ✓ chat.history 13396ms conn=4a0b223c…feae id=5baa6c36…e56e[39m
+2026-04-16 18:17:23 +02:00: [90m2026-04-16T18:17:23.395+02:00[39m [36m[ws][39m [36m⇄ res ✓ models.list 13334ms conn=4a0b223c…feae id=c733b6b9…2934[39m
+2026-04-16 18:17:23 +02:00: [90m2026-04-16T18:17:23.426+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 13438ms conn=4a0b223c…feae id=0e0d7a2b…f6f8[39m
+2026-04-16 18:17:23 +02:00: [90m2026-04-16T18:17:23.431+02:00[39m [36m[ws][39m [36m⇄ res ✓ device.pair.list 13444ms conn=4a0b223c…feae id=076a7347…7a13[39m
+2026-04-16 18:19:36 +02:00: [90m2026-04-16T18:19:36.901+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:19:39 +02:00: [90m2026-04-16T18:19:39.499+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 18:22:01 +02:00: [90m2026-04-16T18:22:01.555+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 18:24:40 +02:00: [90m2026-04-16T18:24:40.164+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:24:44 +02:00: [90m2026-04-16T18:24:44.375+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 18:24:50 +02:00: [90m2026-04-16T18:24:50.473+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:24:51 +02:00: [90m2026-04-16T18:24:51.572+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 18:25:02 +02:00: [90m2026-04-16T18:25:02.404+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:25:06 +02:00: [90m2026-04-16T18:25:06.007+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 3/10 in 21s[39m
+2026-04-16 18:25:27 +02:00: [90m2026-04-16T18:25:27.367+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:25:28 +02:00: [90m2026-04-16T18:25:28.921+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 4/10 in 43s[39m
+2026-04-16 18:26:11 +02:00: [90m2026-04-16T18:26:11.876+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:26:15 +02:00: [90m2026-04-16T18:26:15.063+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 5/10 in 82s[39m
+2026-04-16 18:27:37 +02:00: [90m2026-04-16T18:27:37.678+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:27:41 +02:00: [90m2026-04-16T18:27:41.654+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 6/10 in 174s[39m
+2026-04-16 18:30:36 +02:00: [90m2026-04-16T18:30:36.359+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:30:37 +02:00: [90m2026-04-16T18:30:37.197+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 7/10 in 300s[39m
+2026-04-16 18:32:01 +02:00: [90m2026-04-16T18:32:01.886+02:00[39m [32m[health-monitor][39m [36m[whatsapp:default] health-monitor: restarting (reason: stopped)[39m
+2026-04-16 18:32:22 +02:00: [90m2026-04-16T18:32:22.178+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 65ms conn=4a0b223c…feae id=0e863a35…f190[39m
+2026-04-16 18:35:37 +02:00: [90m2026-04-16T18:35:37.866+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:35:41 +02:00: [90m2026-04-16T18:35:41.319+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 1/10 in 5s[39m
+2026-04-16 18:35:46 +02:00: [90m2026-04-16T18:35:46.846+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m
+2026-04-16 18:35:49 +02:00: [90m2026-04-16T18:35:49.857+02:00[39m [35m[whatsapp][39m [36m[default] auto-restart attempt 2/10 in 10s[39m
+2026-04-16 18:36:00 +02:00: [90m2026-04-16T18:36:00.578+02:00[39m [35m[whatsapp][39m [36m[default] starting provider (+918078641994)[39m

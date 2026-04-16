@@ -1,0 +1,86 @@
+2026-04-15 22:54:21 +02:00: Tip: openclaw gateway install
+2026-04-15 22:54:21 +02:00: Tip: openclaw gateway
+2026-04-15 22:54:21 +02:00: Tip: systemctl --user start openclaw-gateway.service
+2026-04-15 22:54:44 +02:00: [90m2026-04-15T22:54:44.406+02:00[39m [36m[gateway][39m [36mloading configuration…[39m
+2026-04-15 22:54:44 +02:00: [90m2026-04-15T22:54:44.568+02:00[39m [36m[gateway][39m [36mresolving authentication…[39m
+2026-04-15 22:54:44 +02:00: [90m2026-04-15T22:54:44.653+02:00[39m [36m[gateway][39m [36mstarting...[39m
+2026-04-15 22:54:53 +02:00: [90m2026-04-15T22:54:53.507+02:00[39m [36m[gateway][39m [36mstarting HTTP server...[39m
+2026-04-15 22:54:53 +02:00: [90m2026-04-15T22:54:53.518+02:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /data/.openclaw/canvas)[39m
+2026-04-15 22:54:53 +02:00: [90m2026-04-15T22:54:53.775+02:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+2026-04-15 22:54:54 +02:00: [90m2026-04-15T22:54:54.031+02:00[39m [36m[gateway][39m [36magent model: meta/llama-3.1-70b-instruct[39m
+2026-04-15 22:54:54 +02:00: [90m2026-04-15T22:54:54.037+02:00[39m [36m[gateway][39m [36mready (6 plugins: acpx, browser, device-pair, phone-control, talk-voice, telegram; 9.4s)[39m
+2026-04-15 22:54:54 +02:00: [90m2026-04-15T22:54:54.042+02:00[39m [36m[gateway][39m [36mlog file: /tmp/openclaw-0/openclaw-2026-04-15.log[39m
+2026-04-15 22:54:54 +02:00: [90m2026-04-15T22:54:54.051+02:00[39m [36m[gateway][39m [36mstarting channels and sidecars...[39m
+2026-04-15 22:54:54 +02:00: [90m2026-04-15T22:54:54.422+02:00[39m [33m[hooks][39m [36mloaded 4 internal hook handlers[39m
+2026-04-15 22:55:32 +02:00: [90m2026-04-15T22:55:32.620+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend registered (cwd: /data/.openclaw/workspace)[39m
+2026-04-15 22:55:32 +02:00: [90m2026-04-15T22:55:32.684+02:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+2026-04-15 22:55:34 +02:00: [90m2026-04-15T22:55:34.969+02:00[39m [36m[heartbeat][39m [36mstarted[39m
+2026-04-15 22:55:35 +02:00: [90m2026-04-15T22:55:35.093+02:00[39m [36m[ws][39m [36mwebchat connected conn=dc3151be-b810-44de-8201-a89399417b27 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-15 22:55:36 +02:00: [90m2026-04-15T22:55:36.397+02:00[39m [36m[ws][39m [36m⇄ res ✓ commands.list 686ms conn=dc3151be…7b27 id=5aaca561…cd38[39m
+2026-04-15 22:55:38 +02:00: [90m2026-04-15T22:55:38.066+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend ready[39m
+2026-04-15 22:55:49 +02:00: [90m2026-04-15T22:55:49.506+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 819ms conn=dc3151be…7b27 id=86205d04…8514[39m
+2026-04-15 22:55:59 +02:00: [90m2026-04-15T22:55:59.066+02:00[39m [36m[ws][39m [36m⇄ res ✓ models.list 23358ms conn=dc3151be…7b27 id=ae9b333c…fd29[39m
+2026-04-15 22:56:09 +02:00: [90m2026-04-15T22:56:09.371+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 576ms conn=dc3151be…7b27 id=832d9d52…1e2e[39m
+2026-04-15 22:56:46 +02:00: [90m2026-04-15T22:56:46.442+02:00[39m [34m[hooks/session-memory][39m [36mSession context saved to /data/.openclaw/workspace/memory/2026-04-15-2056.md[39m
+2026-04-15 22:56:46 +02:00: [90m2026-04-15T22:56:46.494+02:00[39m [36m[ws][39m [36m⇄ res ✓ sessions.reset 1091ms conn=dc3151be…7b27 id=8850857b…60e3[39m
+2026-04-15 23:03:56 +02:00: [90m2026-04-15T23:03:56.779+02:00[39m [36m[gateway][39m [36msignal SIGINT received[39m
+2026-04-15 23:03:56 +02:00: [90m2026-04-15T23:03:56.784+02:00[39m [36m[gateway][39m [36mreceived SIGINT; shutting down[39m
+2026-04-15 23:03:57 +02:00: [90m2026-04-15T23:03:57.164+02:00[39m [34m[gmail-watcher][39m [36mgmail watcher stopped[39m
+2026-04-15 23:03:57 +02:00: [90m2026-04-15T23:03:57.616+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1012 reason=service restart conn=dc3151be-b810-44de-8201-a89399417b27[39m
+2026-04-15 23:05:47 +02:00: [90m2026-04-15T23:05:47.095+02:00[39m [36m[gateway][39m [36mloading configuration…[39m
+2026-04-15 23:05:47 +02:00: [90m2026-04-15T23:05:47.200+02:00[39m [36m[gateway][39m [36mresolving authentication…[39m
+2026-04-15 23:05:47 +02:00: [90m2026-04-15T23:05:47.267+02:00[39m [36m[gateway][39m [36mstarting...[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.531+02:00[39m [36m[gateway][39m [36mstarting HTTP server...[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.555+02:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /data/.openclaw/canvas)[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.731+02:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.973+02:00[39m [36m[gateway][39m [36magent model: meta/llama-3.1-70b-instruct[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.976+02:00[39m [36m[gateway][39m [36mready (6 plugins: acpx, browser, device-pair, phone-control, talk-voice, telegram; 8.7s)[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.980+02:00[39m [36m[gateway][39m [36mlog file: /tmp/openclaw-0/openclaw-2026-04-15.log[39m
+2026-04-15 23:05:55 +02:00: [90m2026-04-15T23:05:55.987+02:00[39m [36m[gateway][39m [36mstarting channels and sidecars...[39m
+2026-04-15 23:05:56 +02:00: [90m2026-04-15T23:05:56.524+02:00[39m [33m[hooks][39m [36mloaded 4 internal hook handlers[39m
+2026-04-15 23:06:17 +02:00: [90m2026-04-15T23:06:17.020+02:00[39m [36m[ws][39m [36mwebchat connected conn=0da6de90-fef4-4539-9f0d-6a731b570ba3 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-15 23:06:29 +02:00: [90m2026-04-15T23:06:29.792+02:00[39m [36m[ws][39m [36m⇄ res ✗ chat.history 1ms errorCode=UNAVAILABLE errorMessage=chat.history unavailable during gateway startup conn=0da6de90…0ba3 id=94a79bde…21a1[39m
+2026-04-15 23:06:29 +02:00: [90m2026-04-15T23:06:29.988+02:00[39m [36m[ws][39m [36m⇄ res ✓ sessions.list 175ms conn=0da6de90…0ba3 id=dc813634…392a[39m
+2026-04-15 23:06:30 +02:00: [90m2026-04-15T23:06:30.080+02:00[39m [36m[ws][39m [36m⇄ res ✗ models.list 0ms errorCode=UNAVAILABLE errorMessage=models.list unavailable during gateway startup conn=0da6de90…0ba3 id=805fa122…302d[39m
+2026-04-15 23:06:30 +02:00: [90m2026-04-15T23:06:30.853+02:00[39m [36m[ws][39m [36m⇄ res ✓ commands.list 766ms conn=0da6de90…0ba3 id=95884af4…7651[39m
+2026-04-15 23:06:31 +02:00: [90m2026-04-15T23:06:31.875+02:00[39m [36m[ws][39m [36m⇄ res ✓ device.pair.list 2189ms conn=0da6de90…0ba3 id=45225553…56a5[39m
+2026-04-15 23:06:31 +02:00: [90m2026-04-15T23:06:31.880+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 2198ms conn=0da6de90…0ba3 id=520f8721…2ed7[39m
+2026-04-15 23:06:31 +02:00: [90m2026-04-15T23:06:31.884+02:00[39m [36m[ws][39m [36m⇄ res ✗ chat.history 0ms errorCode=UNAVAILABLE errorMessage=chat.history unavailable during gateway startup conn=0da6de90…0ba3 id=9594da2d…1801[39m
+2026-04-15 23:06:36 +02:00: [90m2026-04-15T23:06:36.764+02:00[39m [36m[ws][39m [36m⇄ res ✗ chat.history 1ms errorCode=UNAVAILABLE errorMessage=chat.history unavailable during gateway startup conn=0da6de90…0ba3 id=1950184f…1396[39m
+2026-04-15 23:06:36 +02:00: [90m2026-04-15T23:06:36.770+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend registered (cwd: /data/.openclaw/workspace)[39m
+2026-04-15 23:06:36 +02:00: [90m2026-04-15T23:06:36.879+02:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+2026-04-15 23:06:39 +02:00: [90m2026-04-15T23:06:39.475+02:00[39m [36m[heartbeat][39m [36mstarted[39m
+2026-04-15 23:06:39 +02:00: [90m2026-04-15T23:06:39.637+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend ready[39m
+2026-04-15 23:21:24 +02:00: [90m2026-04-15T23:21:24.821+02:00[39m [36m[gateway][39m [36msignal SIGINT received[39m
+2026-04-15 23:21:24 +02:00: [90m2026-04-15T23:21:24.828+02:00[39m [36m[gateway][39m [36mreceived SIGINT; shutting down[39m
+2026-04-15 23:21:25 +02:00: [90m2026-04-15T23:21:25.226+02:00[39m [34m[gmail-watcher][39m [36mgmail watcher stopped[39m
+2026-04-15 23:21:25 +02:00: [90m2026-04-15T23:21:25.957+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1012 reason=service restart conn=0da6de90-fef4-4539-9f0d-6a731b570ba3[39m
+2026-04-15 23:21:36 +02:00: [90m2026-04-15T23:21:36.948+02:00[39m [36m[gateway][39m [36mloading configuration…[39m
+2026-04-15 23:21:37 +02:00: [90m2026-04-15T23:21:37.031+02:00[39m [36m[gateway][39m [36mresolving authentication…[39m
+2026-04-15 23:21:37 +02:00: [90m2026-04-15T23:21:37.085+02:00[39m [36m[gateway][39m [36mstarting...[39m
+2026-04-15 23:21:47 +02:00: [90m2026-04-15T23:21:47.694+02:00[39m [36m[gateway][39m [36mstarting HTTP server...[39m
+2026-04-15 23:21:47 +02:00: [90m2026-04-15T23:21:47.705+02:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /data/.openclaw/canvas)[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.012+02:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.237+02:00[39m [36m[gateway][39m [36magent model: meta/llama-3.1-70b-instruct[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.242+02:00[39m [36m[gateway][39m [36mready (6 plugins: acpx, browser, device-pair, phone-control, talk-voice, telegram; 11.2s)[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.245+02:00[39m [36m[gateway][39m [36mlog file: /tmp/openclaw-0/openclaw-2026-04-15.log[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.266+02:00[39m [36m[gateway][39m [36mstarting channels and sidecars...[39m
+2026-04-15 23:21:48 +02:00: [90m2026-04-15T23:21:48.766+02:00[39m [33m[hooks][39m [36mloaded 4 internal hook handlers[39m
+2026-04-15 23:21:50 +02:00: [90m2026-04-15T23:21:50.094+02:00[39m [36m[ws][39m [36mwebchat connected conn=eb781984-a163-41b8-b14c-e835c026306e remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.016+02:00[39m [36m[ws][39m [36m⇄ res ✗ chat.history 1ms errorCode=UNAVAILABLE errorMessage=chat.history unavailable during gateway startup conn=eb781984…306e id=fbdd72cb…fa41[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.035+02:00[39m [36m[ws][39m [36m⇄ res ✗ models.list 0ms errorCode=UNAVAILABLE errorMessage=models.list unavailable during gateway startup conn=eb781984…306e id=5c5fa204…f0d2[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.390+02:00[39m [36m[ws][39m [36m⇄ res ✓ commands.list 353ms conn=eb781984…306e id=71e8f2a8…0528[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.578+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 571ms conn=eb781984…306e id=fdbf4d4d…7f44[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.581+02:00[39m [36m[ws][39m [36m⇄ res ✓ device.pair.list 573ms conn=eb781984…306e id=7d625f3b…e45e[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.699+02:00[39m [36m[ws][39m [36m⇄ res ✗ chat.history 1ms errorCode=UNAVAILABLE errorMessage=chat.history unavailable during gateway startup conn=eb781984…306e id=9c392423…f1a0[39m
+2026-04-15 23:22:08 +02:00: [90m2026-04-15T23:22:08.769+02:00[39m [36m[ws][39m [36mwebchat disconnected code=1001 reason=n/a conn=eb781984-a163-41b8-b14c-e835c026306e[39m
+2026-04-15 23:22:26 +02:00: [90m2026-04-15T23:22:26.657+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend registered (cwd: /data/.openclaw/workspace)[39m
+2026-04-15 23:22:26 +02:00: [90m2026-04-15T23:22:26.801+02:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+2026-04-15 23:22:29 +02:00: [90m2026-04-15T23:22:29.388+02:00[39m [36m[heartbeat][39m [36mstarted[39m
+2026-04-15 23:22:30 +02:00: [90m2026-04-15T23:22:30.922+02:00[39m [35m[plugins][39m [36membedded acpx runtime backend ready[39m
+2026-04-15 23:22:31 +02:00: [90m2026-04-15T23:22:31.583+02:00[39m [36m[ws][39m [36mwebchat connected conn=f3940282-a2d1-4ad2-aa47-333d46461878 remote=::1 client=openclaw-control-ui webchat v2026.4.14[39m
+2026-04-15 23:22:32 +02:00: [90m2026-04-15T23:22:32.113+02:00[39m [36m[ws][39m [36m⇄ res ✓ commands.list 318ms conn=f3940282…1878 id=84d20970…c99b[39m
+2026-04-15 23:22:42 +02:00: [90m2026-04-15T23:22:42.767+02:00[39m [36m[ws][39m [36m⇄ res ✓ models.list 10969ms conn=f3940282…1878 id=66b20a25…ebef[39m
+2026-04-15 23:22:42 +02:00: [90m2026-04-15T23:22:42.814+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 11033ms conn=f3940282…1878 id=8ce01c83…3b8f[39m
+2026-04-15 23:22:42 +02:00: [90m2026-04-15T23:22:42.818+02:00[39m [36m[ws][39m [36m⇄ res ✓ device.pair.list 11036ms conn=f3940282…1878 id=c8d447d7…58bd[39m
+2026-04-15 23:22:48 +02:00: [90m2026-04-15T23:22:48.068+02:00[39m [36m[ws][39m [36m⇄ res ✓ node.list 1252ms conn=f3940282…1878 id=b65b87a4…5eab[39m
