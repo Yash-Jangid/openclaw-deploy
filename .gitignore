@@ -7,3 +7,4 @@ ecosystem.config.cjs*.bak*
 
 # Dependencies
 node_modules/
+config.bat
